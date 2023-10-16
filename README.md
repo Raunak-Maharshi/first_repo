@@ -1,2 +1,2 @@
 # first_repo
-Just a demo repository.
+Just a demo repository...
